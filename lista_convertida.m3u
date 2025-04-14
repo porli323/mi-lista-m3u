@@ -1,1 +1,15 @@
 #EXTM3U
+#EXTINF:-1 group-title="zOna DepORtivA", zOna DepORtivA
+https://af1c1onados.vercel.app/Zona.Deportiva.w3u
+#EXTINF:-1 group-title="zOna DepORtivA 2", zOna DepORtivA 2
+https://af1c1onados.vercel.app/Zona.Deportiva.2.m3u
+#EXTINF:-1 group-title="zOna DepORtivA 3", zOna DepORtivA 3
+https://af1c1onados.vercel.app/Zona.Deportiva.3.w3u
+#EXTINF:-1 group-title="zOna DepORtivA 4", zOna DepORtivA 4
+https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/60f7f36f1ac19a5e3d7db7481b4ddfaeab807c9f/topembed-channels.m3u8
+#EXTINF:-1 group-title="NBA StREamS", NBA StREamS
+https://af1c1onados.vercel.app/09.1.Deportes.NBA.StREamS.w3u
+#EXTINF:-1 group-title="NHL StREamS", NHL StREamS
+https://af1c1onados.vercel.app/09.3.Deportes.NHL.StREamS.w3u
+#EXTINF:-1 group-title="MLB StREamS", MLB StREamS
+https://af1c1onados.vercel.app/09.4.Deportes.MLB.Stream.w3u
